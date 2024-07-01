@@ -1,0 +1,16 @@
+{
+  "name": "trabalho2",
+  "module": "src/index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@types/terminal-kit": "^2.5.6",
+    "mqtt": "^5.7.0",
+    "terminal-kit": "^3.1.1"
+  }
+}

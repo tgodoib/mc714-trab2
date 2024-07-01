@@ -1,0 +1,19 @@
+services:
+  component_0:
+    build: ./component
+    environment:
+      ID: 0
+
+  component_1:
+    build: ./component
+    environment:
+      ID: 1
+
+  component_2:
+    build: ./component
+    environment:
+      ID: 2
+  component_3:
+    build: ./component
+    environment:
+      ID: 3
