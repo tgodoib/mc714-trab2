@@ -13,6 +13,7 @@ services:
     build: ./component
     environment:
       ID: 2
+
   component_3:
     build: ./component
     environment:

@@ -14,4 +14,4 @@ setTimeout(() => {
     device.token = true;
     device.passOnToken();
   }
-}, 6000);
+}, 10000);
